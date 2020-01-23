@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Test Automation
+email: ngoanh2n@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://ngoanh2n.github.io/" # the base hostname & protocol for your site
+
+twitter_username: ngoanh2n
+github_username: ngoanh2n
+
+# Build settings
+markdown: kramdown
