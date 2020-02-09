@@ -1,12 +1,61 @@
-# Site settings
-title: Test Automation
-email: ngoanh2n@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://ngoanh2n.github.io/" # the base hostname & protocol for your site
+# Site
+repository: ngoanh2n/ngoanh2n.github.io
+favicon: assets/favicon.png
 
+# Personal info
+name: Ho Huu Ngoan
+phone: 098-871-4494
+title: Test Automation Engineer
+email: ngoanh2n@gmail.com
+website: https://ngoanh2n.github.io/blog
+
+# Social links
 twitter_username: ngoanh2n
-github_username: ngoanh2n
+github_username:  ngoanh2n
+linkedin_username: ngoanh2n
+# youtube_username: ngoanh2n
+# dribbble_username: ngoanh2n
+# facebook_username: ngoanh2n
+# flickr_username: ngoanh2n
+# instagram_username: ngoanh2n
+# pinterest_username: ngoanh2n
+# googleplus_username: +ngoanh2n
+
+# About Section
+# about_title: About Me
+about_profile_image: assets/ngoanh2n.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, I'm Ho Huu Ngoan.
+  
+  I am most skilled in: <mark>Selenium-WebDriver</mark>, <mark>JUnit5</mark> and <mark>Allure Report</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in software developing some of my other interests and hobbies are:
+   - Astronomy
+   - Film (US, China)
+
+# Footer
+footer_show_references: true
+
+darkmode: true
 
 # Build settings
-markdown: kramdown
+remote_theme: sproogen/modern-resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

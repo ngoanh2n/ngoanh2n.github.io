@@ -3,4 +3,4 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Github Page
-Using `Creative Theme` for `Jekyll` from Start Bootstrap, Felix Volny.
+Using `modern-resume-theme` for `Jekyll` from James Grant.

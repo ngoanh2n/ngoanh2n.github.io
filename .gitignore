@@ -1,2 +1,6 @@
-_site/
-.sass-cache/
+*.gem
+.bundle
+.sass-cache
+_site
+*.code-workspace
+vendor
