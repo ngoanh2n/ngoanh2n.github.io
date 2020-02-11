@@ -2,7 +2,7 @@
 - layout: top-middle
   name: CSV Comparator
   link: https://mvnrepository.com/artifact/com.github.ngoanh2n/csv-comparator
-  github: https://github.com/ngoanh2n/csv-comparator
+  github: ngoanh2n/csv-comparator
   quote: >
     Utils for comparison and assertion CSV files in Java
   description: | # this will include new lines to allow paragraphs
