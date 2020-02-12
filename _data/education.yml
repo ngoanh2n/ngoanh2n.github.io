@@ -1,25 +1,29 @@
 # Education Template
 - layout: left
   name: Meros Language School
+  link: http://www.meros.jp/?lang=en
   dates: April 2016 - Mar 2017
   qualification: Japanese in Business
   quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Meros Language School is a Japanese language school in Tokyo, Japan. 
+    The trainees are mainly from China and Vietnam.
+  # description: | # this will include new lines to allow paragraphs
+  #   Description of qualification
 - layout: left
   name: FPT University
+  link: http://international.fpt.edu.vn
   dates: Sep 2010 - Sep 2015
   qualification: Bachelor of Software Engineering
   quote: >
     FPT University is a private university in Vietnam. FPT University is a member of FPT Group and has campuses in Hanoi (main), Ho Chi Minh City and Danang.
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  # description: | # this will include new lines to allow paragraphs
+  #   Description of qualification
 - layout: left
   name: Posts and Telecommunications Institute of Technology
+  link: http://portal.ptit.edu.vn/eng
   dates: Sep 2009 - Aug 2010
   qualification: Bachelor of Information Technology
   quote: >
     Posts and Telecommunications Institute of Technology (PTIT), is a University in Vietnam, under the supervision of Vietnam Posts and Telecommunications Group (VNPT), a communications-related research facility.
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  # description: | # this will include new lines to allow paragraphs
+  #   Description of qualification

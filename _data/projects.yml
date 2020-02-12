@@ -6,7 +6,7 @@
   quote: >
     Utils for comparison and assertion CSV files in Java
   description: | # this will include new lines to allow paragraphs
-    I created this repository and developed as a owner. 
+    I created this repository and developed as an owner. 
     This is built as a dependency with Java. 
-    It's able to compare 2 CSV files and assert the comparison result that has difference between them, 
-    has addition, has modification, has deletion.
+    It’s able to compare 2 CSV files and assert the comparison result 
+    that has differences between them, has additional, has a modification, has deletion.

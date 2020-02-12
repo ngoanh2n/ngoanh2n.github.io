@@ -26,8 +26,6 @@ linkedin_username: ngoanh2n
 about_profile_image: assets/ngoanh2n.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Ho Huu Ngoan.
-  
-  I am most skilled in: <mark>Selenium-WebDriver</mark>, <mark>JUnit5</mark> and <mark>Allure Report</mark>
 
 # Projects Section
 # projects_title: Projects

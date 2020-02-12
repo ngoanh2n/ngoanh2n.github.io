@@ -7,4 +7,7 @@
   quote: >
    SHIFT ASIA was a subsidiary of SHIFT, Inc. headquartered in Tokyo, Japan and was established in May 2016 as a strategic Asian hub for the parent company and part of the SHIFT Group alliance. 
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Read test cases, automate test scripts.
+    - Build testing structures/skeletons, tools.
+    - Design, develop and maintain wrapped framework built on top of Selenium/Selenide, Appium.
+    - Manage small teams (size 3-5 members) as a technical/architecture role, deploy CI/CD environment.
