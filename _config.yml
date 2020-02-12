@@ -25,7 +25,11 @@ linkedin_username: ngoanh2n
 # about_title: About Me
 about_profile_image: assets/ngoanh2n.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Ho Huu Ngoan.
+  Hello, world! my name is Ho Huu Ngoan and I am a Test Automation Engineer from Ho Chi Minh City, Vietnam.
+  I graduated in 2015 with a bachelor’s degree in Software Engineering from FPT University.
+  I have been in the field for nearly 3 years.
+  Besides, I also started to know the blog sharing knowledge about Test Automation at https://ngoanh2n.github.io/blog
+
 
 # Projects Section
 # projects_title: Projects
