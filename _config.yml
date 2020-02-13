@@ -21,6 +21,12 @@ linkedin_username: ngoanh2n
 # pinterest_username: ngoanh2n
 # googleplus_username: +ngoanh2n
 
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+google_analytics: "UA-00000000-0"
+
 # About Section
 # about_title: About Me
 about_profile_image: assets/ngoanh2n.jpg
