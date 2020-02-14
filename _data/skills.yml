@@ -1,0 +1,61 @@
+- layout: skill-columns
+  group: Testing Framworks (Java)
+  skill_tags: |
+    - Selenium
+    - Selenide
+    - Appium
+    - JUnit5
+    - TestNG
+    - Cucumber
+    - Allure Report
+    - ReportPortal
+
+- layout: skill-columns
+  group: Tools and Technologies
+  skill_tags: |
+    - GIT
+    - AWS
+    - Docker
+    - Jenkins
+    - Gradle
+    - Redmine
+    - Squid
+    - PuTTY
+
+- layout: skill-columns
+  group: Development
+  skill_tags: |
+    - ReactJS
+    - Webpack
+    - ReactNative
+    - NodeJS
+    - ExpressJS
+    - Nodemon
+    - NGINX
+    - Mongoose
+    
+- layout: skill-columns
+  group: Programming Languages/Concepts
+  skill_tags: |
+    - Java
+    - JavaScript
+    - C#
+    - HTML5
+    - CSS3
+    - OOP Principles
+    - Design Patterns
+    - Data Structure and Algorithms
+
+- layout: skill-columns
+  group: Languges
+  skill_tags: |
+    - Vietnamese (Native)
+    - English (Intermediate)
+    - Japanese (Intermediate)
+
+- layout: skill-columns
+  group: Inspecting Tools
+  skill_tags: |
+    - Macaca's App Inspector
+    - UIAutomatorViewer
+    - Appium Desktop Inspector

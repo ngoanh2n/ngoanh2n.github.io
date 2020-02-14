@@ -1,0 +1,8 @@
+<div class="container skills-container">
+    <h3>{{ site.skills_title | default: "Skills" }}</h3>
+    <div class="row clearfix layout skill-groups-container">
+        {% for skill in site.data.skills %}
+        {% include {{ skill.layout | default: 'columns' | append: ".html" }} item=skill %}
+        {% endfor %}
+    </div>
+</div>
