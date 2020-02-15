@@ -14,10 +14,10 @@
   group: Tools and Technologies
   skill_tags: |
     - GIT
-    - AWS
+    - Gradle
     - Docker
     - Jenkins
-    - Gradle
+    - AWS
     - Redmine
     - Squid
     - PuTTY
@@ -25,17 +25,17 @@
 - layout: skill-columns
   group: Development
   skill_tags: |
-    - ReactJS
     - Webpack
+    - ReactJS
     - ReactNative
     - NodeJS
     - ExpressJS
     - Nodemon
-    - NGINX
     - Mongoose
+    - NGINX
     
 - layout: skill-columns
-  group: Programming Languages/Concepts
+  group: Programming/Concepts
   skill_tags: |
     - Java
     - JavaScript
@@ -47,15 +47,15 @@
     - Data Structure and Algorithms
 
 - layout: skill-columns
+  group: Inspectors
+  skill_tags: |
+    - Macaca's App Inspector
+    - UIAutomatorViewer
+    - Appium Desktop Inspector
+    
+- layout: skill-columns
   group: Languges
   skill_tags: |
     - Vietnamese (Native)
     - English (Intermediate)
     - Japanese (Intermediate)
-
-- layout: skill-columns
-  group: Inspecting Tools
-  skill_tags: |
-    - Macaca's App Inspector
-    - UIAutomatorViewer
-    - Appium Desktop Inspector

@@ -37,17 +37,18 @@ about_content: | # this will include new lines to allow paragraphs
   Besides, I also started to know the blog sharing knowledge about Test Automation at https://ngoanh2n.github.io/blog
 
 # Section Titles
-# projects_title: Projects
-# experience_title: Experience
-# educaton_title: Education
-# skills_title: Skills
+projects_title: Projects
+experience_title: Experience
+educaton_title: Education
+skills_title: Skills
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in software developing some of my other interests and hobbies are:
-   - Astronomy
+  Alongside my interests in coding some of my other interests and hobbies are:
+   - Astronomy (<a href='https://www.youtube.com/channel/UCGgHGWc9DKERMs3TeUH8Rmw/videos' target='_blank'>Library of Astronomy</a>)
    - Film (US, China)
+   - Music (<a href='https://www.youtube.com/user/lyhaipro/videos' target='_blank'>Ly Hai</a>, <a href='https://www.youtube.com/user/EnriqueIglesiasPlay/videos' target='_blank'>Enrique Iglesias</a>)
 
 # Footer
 footer_show_references: true
