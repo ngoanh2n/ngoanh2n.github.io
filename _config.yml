@@ -46,9 +46,9 @@ skills_title: Skills
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in coding some of my other interests and hobbies are:
+   - Music (<a href='https://zingmp3.vn/nghe-si/Ly-Hai/bai-hat' target='_blank'>Ly Hai</a>, <a href='https://zingmp3.vn/nghe-si/Enrique-Iglesias/bai-hat' target='_blank'>Enrique Iglesias</a>)
    - Astronomy (<a href='https://www.youtube.com/channel/UCGgHGWc9DKERMs3TeUH8Rmw/videos' target='_blank'>Library of Astronomy</a>)
    - Film (US, China)
-   - Music (<a href='https://www.youtube.com/user/lyhaipro/videos' target='_blank'>Ly Hai</a>, <a href='https://www.youtube.com/user/EnriqueIglesiasPlay/videos' target='_blank'>Enrique Iglesias</a>)
 
 # Footer
 footer_show_references: true
