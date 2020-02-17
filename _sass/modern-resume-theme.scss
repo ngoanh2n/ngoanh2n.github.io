@@ -94,6 +94,9 @@
       color: inherit;
       font-style: italic;
       font-weight: 300;
+      // Prevent automatic line breaks in a <a> tag
+      word-break:break-all;
+      word-wrap:break-word;
     }
 
     .fa {
