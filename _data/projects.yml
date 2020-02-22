@@ -3,9 +3,9 @@
   link: https://mvnrepository.com/artifact/com.github.ngoanh2n/csv-comparator
   github: ngoanh2n/csv-comparator
   quote: >
-    Utils for comparison and assertion CSV files in Java
+    Library for comparison and assertion 2 CSV files
   description: | # this will include new lines to allow paragraphs
     I created this repository and developed as an owner. 
     This is built as a dependency with Java. 
     It’s able to compare 2 CSV files and assert the comparison result 
-    that has differences between them, has additional, has a modification, has deletion.
+    that has differences, has additions, has modifications, has deletions between them.
