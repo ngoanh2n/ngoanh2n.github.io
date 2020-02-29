@@ -73,6 +73,7 @@
 
     p {
       margin-bottom: 3px;
+      // margin-top: 30px;
       font-size: 1.6em;
       text-align: inherit;
       font-weight: 300;
@@ -149,7 +150,8 @@
 }
 
 .footer-container {
-  margin-top:100px;
+  // margin-top:100px;
+  margin-top:50px;
 }
 
 .footer-container p {
@@ -192,4 +194,12 @@ p.quote {
     padding: 0em 1em;
     margin-top: 1em;
   }
+}
+
+.project-github {
+  margin-top: 8px;
+}
+
+.footer-copyright {
+  font-size: 1.4em;
 }
