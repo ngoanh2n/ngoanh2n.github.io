@@ -1,33 +1,27 @@
-# Site
+## Site
+darkmode: true
 repository: ngoanh2n/ngoanh2n.github.io
 favicon: assets/favicon.ico
 
-# Personal info
+## Personal info
 name: Ho Huu Ngoan
 # phone: 098-871-4494
 title: Test Automation Engineer
 email: ngoanh2n@gmail.com
 website: https://ngoanh2n.github.io/blog
 
-# Social links
+## Social links
 twitter_username: ngoanh2n
 github_username:  ngoanh2n
 linkedin_username: ngoanh2n
-# youtube_username: ngoanh2n
-# dribbble_username: ngoanh2n
-# facebook_username: ngoanh2n
-# flickr_username: ngoanh2n
-# instagram_username: ngoanh2n
-# pinterest_username: ngoanh2n
-# googleplus_username: +ngoanh2n
 
-# Google Analytics and Tag Manager
+## Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 google_analytics: "UA-00000000-0"
 
-# About Section
+## About Section
 # about_title: About Me
 about_profile_image: assets/ngoanh2n.jpg
 about_content: | # this will include new lines to allow paragraphs
@@ -37,26 +31,21 @@ about_content: | # this will include new lines to allow paragraphs
   Besides, I also started to know the blog sharing knowledge about 
   Test Automation at <a href='/blog' target='_blank'>https://ngoanh2n.github.io/blog</a>
 
-# Section Titles
+## Section Titles
 projects_title: Projects
 experience_title: Experience
 educaton_title: Education
 skills_title: Skills
 
-# More Section
+## More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in coding some of my other interests and hobbies are:
-   - Music (<a href='https://zingmp3.vn/nghe-si/Ly-Hai/bai-hat' target='_blank'>Ly Hai</a>, <a href='https://zingmp3.vn/nghe-si/Enrique-Iglesias/bai-hat' target='_blank'>Enrique Iglesias</a>)
-   - Astronomy (<a href='https://www.youtube.com/channel/UCGgHGWc9DKERMs3TeUH8Rmw/videos' target='_blank'>Library of Astronomy</a>)
-   - Film (US, China)
+# more_content: | # this will include new lines to allow paragraphs
+  # Alongside my interests in coding some of my other interests and hobbies are:
 
-# Footer
+## Footer
 footer_show_references: true
 
-darkmode: true
-
-# Build settings
+## Build settings
 remote_theme: sproogen/modern-resume-theme
 
 sass:
