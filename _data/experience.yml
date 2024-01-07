@@ -4,9 +4,19 @@
   job_title: Automation Test Engineer
   dates: Apr 2017 - Present
   quote: >
-   SHIFT ASIA was a subsidiary of SHIFT, Inc. headquartered in Tokyo, Japan and was established in May 2016 as a strategic Asian hub for the parent company and part of the SHIFT Group alliance. 
-  description: | # this will include new lines to allow paragraphs
-    - Read test cases, automate test scripts.
-    - Build testing structures/skeletons, tools.
-    - Design, develop and maintain wrapped framework built on top of Selenium/Selenide, Appium.
-    - Manage and support small teams (size 3-5 members) as a technical role, join to deploy CI/CD environment.
+   SHIFT ASIA was a subsidiary of SHIFT Inc headquartered in Tokyo, Japan and was established in May 2016 as a strategic Asian hub for the parent company and part of the SHIFT Group alliance. 
+  description: |
+    Joined as Software Development Engineer in Test:
+    - Develop framework built on top of Selenium/Selenide, Appium.
+    - Deploy CI/CD environment for automation test.
+    - Build testing structures, skeletons, tools.
+    - Manage and support small teams (size 3-5 members) as a technical role.
+- layout: left
+  company: IMLINK VIETNAM
+  link: http://imlink.vn
+  job_title: Software Developer
+  dates: Sep 2015 - Mar 2016
+  quote: >
+   IMLINK VIETNAM was a subsidiary of IMLINK headquartered in Nagoya, Japan and was established in Apr 2007 to conduct offshore development from the Japanese market. 
+  description: |
+    Joined as C# developer for 6 months.

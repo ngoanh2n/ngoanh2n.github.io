@@ -24,7 +24,7 @@ google_analytics: "UA-00000000-0"
 ## About Section
 # about_title: About Me
 about_profile_image: assets/ngoanh2n.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Hello, world! My name is Ho Huu Ngoan and I am a Automation Test Engineer from Ho Chi Minh City, Vietnam.
   I graduated in 2015 with a bachelor’s degree in Software Engineering from FPT University.
   I have been in the field for over 6 years.
@@ -39,7 +39,7 @@ skills_title: Skills
 
 ## More Section
 # more_title: A Little More About Me
-# more_content: | # this will include new lines to allow paragraphs
+# more_content: |
   # Alongside my interests in coding some of my other interests and hobbies are:
 
 ## Footer

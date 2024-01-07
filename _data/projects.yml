@@ -4,7 +4,7 @@
   github: ngoanh2n/csv-comparator
   quote: >
     Library for comparison and assertion 2 CSV files
-  description: | # this will include new lines to allow paragraphs
+  description: |
     I created this repository and developed as an owner. 
     This is built as a dependency with Java. 
     It’s able to compare 2 CSV files and assert the comparison result 
