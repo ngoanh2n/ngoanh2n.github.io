@@ -1,60 +1,79 @@
 - layout: skill-columns
-  group: Testing Framworks (Java)
+  group: General
+  subtitle: Subtitle
   skill_tags: |
-    - Selenium
-    - Selenide
-    - Appium
-    - JUnit5
-    - TestNG
-    - Cucumber
-    - Allure Report
-    - ReportPortal
-
-- layout: skill-columns
-  group: Tools and Technologies
-  skill_tags: |
-    - GIT
-    - Gradle
-    - Docker
-    - Jenkins
-    - AWS
-    - Redmine
-    - Squid
-    - PuTTY
-
-- layout: skill-columns
-  group: Development
-  skill_tags: |
-    - Webpack
-    - ReactJS
-    - ReactNative
-    - NodeJS
-    - ExpressJS
-    - Nodemon
-    - Mongoose
-    - NGINX
+    Programming Language
+      - ✅ Java
+      - ✅ JavaScript
+      - ✅ HTML/CSS
     
-- layout: skill-columns
-  group: Programming/Concepts
-  skill_tags: |
-    - Java
-    - JavaScript
-    - HTML5
-    - CSS3
-    - OOP Principles
-    - Design Patterns
-    - Data Structure and Algorithms
+    Concept
+      - ✅ OOP Principles
+      - ✅ Design Patterns
+      - ✅ Data Structure and Algorithms
+
+    CI/CD
+      - ✅ Jenkins
+      - ✅ CircleCI
+      - ✅ GitHub Actions
+
+    Other
+      - ✅ Docker
+      - ✅ AWS EC2
 
 - layout: skill-columns
-  group: Inspectors
+  group: Java
   skill_tags: |
-    - Macaca's App Inspector
-    - UIAutomatorViewer
-    - Appium Desktop Inspector
+    Build Tool
+      - ✅ Gradle
+      - ✅ Maven
     
+    WebDriver
+      - ✅ Selenium
+      - ✅ Appium
+      - ✅ Selenide
+    
+    Test Framework
+      - ✅ JUnit5
+      - ✅ TestNG
+
+    Report Framework
+      - ✅ Allure
+      - ✅ ReportPortal
+      - ✅ ExtentReport
+
+# - layout: skill-columns
+#   group: JavaScript
+#   skill_tags: |
+#     Framework
+#       - ✅ Playwright
+#       - ✅ Cypress
+#       - ✅ WebDriverIO
+    
+#     Test Framework
+#       - ✅ Mocha
+#       - ✅ Jest
+#       - ✅ Jasmine
+
+#     Report Framework
+#       - ✅ Allure
+#       - ✅ ReportPortal
+
 - layout: skill-columns
-  group: Languges
+  group: Tool
   skill_tags: |
-    - Vietnamese (Native)
-    - English (Conversation)
-    - Japanese (Conversation)
+    Inspector
+      - ✅ App Inspector (Macaca)
+      - ✅ Appium Inspector
+      - ✅ UIAutomatorViewer
+    
+    Recorder
+      - ✅ Selenium IDE
+#       - ✅ Katalon Studio
+#       - ✅ Ranorex Studio
+#       - ✅ Cypress Studio
+
+#     RPA (Robotics Process Automation)
+#       - ✅ UiPath
+#       - ✅ Automation Anywhere
+#       - ✅ Blue Prism

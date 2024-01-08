@@ -20,6 +20,10 @@
             {%- include skills.html -%}
             {%- endif -%}
 
+            {%- if site.data.skills_dev.size > 0 -%}
+            {%- include skills_dev.html -%}
+            {%- endif -%}
+
             {%- if site.data.projects.size > 0 -%}
             {%- include projects.html -%}
             {%- endif -%}
