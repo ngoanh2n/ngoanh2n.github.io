@@ -2,18 +2,20 @@
   name: CSV Comparator
   link: https://mvnrepository.com/artifact/com.github.ngoanh2n/csv-comparator
   github: ngoanh2n/csv-comparator
-  quote: >
-    Lib for comparing 2 CSV files (Java)
+  # quote: >
+  #   This is built as a dependency with Java to compare 2 CSV files and 
+  #   assert the comparison result that check whether there is any diff, deletion, insertion and modification between them.
+  #   It also gets rows have been deleted, inserted and modified.
   description: |
-    Able to compare 2 CSV files and assert the comparison result 
-    that check whether there is any diff, deletion, insertion and modification between them.<br>
-    It also gets rows have been deleted, inserted and modified.
+    This is built as a dependency with Java to compare 2 CSV files and treat the comparison result:
+    - Check whether there is any difference, deletion, insertion and modification
+    - Get rows have been kept, deleted, inserted and modified
+
 - layout: top-middle
   name: Image Comparator
   link: https://mvnrepository.com/artifact/com.github.ngoanh2n/image-comparator
   github: ngoanh2n/image-comparator
-  quote: >
-    Lib for comparing 2 image files (Java)
   description: |
-    Able to compare 2 image files and assert the comparison result that check whether there is any diff between them.<br>
-    It also gets the number of diff points and diff image after comparison.
+    This is built as a dependency with Java to compare 2 image files and treat the comparison result:
+    - Check whether there is any diff between them
+    - Get the number of diff points and diff image
