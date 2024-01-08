@@ -1,21 +1,59 @@
 - layout: top-middle
-  name: CSV Comparator
-  link: https://mvnrepository.com/artifact/com.github.ngoanh2n/csv-comparator
-  github: ngoanh2n/csv-comparator
-  # quote: >
-  #   This is built as a dependency with Java to compare 2 CSV files and 
-  #   assert the comparison result that check whether there is any diff, deletion, insertion and modification between them.
-  #   It also gets rows have been deleted, inserted and modified.
+  name: WebDriverChecker
+  link: https://mvnrepository.com/artifact/com.github.ngoanh2n/webdriverchecker
+  github: ngoanh2n/webdriverchecker
+  quote: This is built as a dependency with Java to check Selenium WebDriver characteristics and environment.
   description: |
-    This is built as a dependency with Java to compare 2 CSV files and treat the comparison result:
-    - Check whether there is any difference, deletion, insertion and modification
-    - Get rows have been kept, deleted, inserted and modified
+    You are writing automation test scripts for multiple browsers such as:
+    - Chrome, Safari.. on PC
+    - Safari & native application on iOS
+    - Chrome & native application on Android
+    
+    And somewhere, you have to check type of browser or platform to navigate your scripts.
+    Use `WebDriverChecker` to make it more convenient!
+    It able to check:
+    - Browser: Chrome, Firefox, Edge, Opera, Safari, IE
+    - Platform: MacOS, Linux, Windows, iOS, Android
+    - State: Alive, Local, Remote, Web, Native, Docker, Virtual Device, Cloud
+
+    Example:
+    ```
+    boolean result = WebDriverChecker.isEdge(..);
+    boolean result = WebDriverChecker.isIOS(..);
+    boolean result = WebDriverChecker.isDocker(..);
+    boolean result = WebDriverChecker.isMobileVirtual(..);
+    ```
 
 - layout: top-middle
   name: Image Comparator
   link: https://mvnrepository.com/artifact/com.github.ngoanh2n/image-comparator
   github: ngoanh2n/image-comparator
+  quote: This is built as a dependency with Java to compare 2 image files.
   description: |
-    This is built as a dependency with Java to compare 2 image files and treat the comparison result:
-    - Check whether there is any diff between them
-    - Get the number of diff points and diff image
+    Example:
+    ```java
+    ImageComparisonOptions options = ImageComparisonOptions
+        .builder()
+        .allowedDeviation(0.05)         // Default to 0.0
+        .diffColor(Color.CYAN)          // Default to Color.RED
+        .build();
+    ImageComparisonResult result = ImageComparator.compare(expectedImage, actualImage, options);
+    ```
+
+- layout: top-middle
+  name: CSV Comparator
+  link: https://mvnrepository.com/artifact/com.github.ngoanh2n/csv-comparator
+  github: ngoanh2n/csv-comparator
+  quote: This is built as a dependency with Java to compare 2 CSV files.
+  description: |
+    Example: CSV is formatted columns `[id,email,firstname,lastname,age,note]`
+    ```
+    CsvComparisonOptions options = CsvComparisonOptions
+        .builder()
+        .selectColumns("email", "firstname", "lastname")
+        .selectColumnId("email")
+        //.selectColumns(1, 2, 3)
+        //.selectColumnId(1)
+        .build();
+    CsvComparisonResult result = CsvComparator.compare(expectedCsvFile, actualCsvFile, options);
+    ```
