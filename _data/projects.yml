@@ -2,7 +2,7 @@
   name: WebDriverChecker
   link: https://mvnrepository.com/artifact/com.github.ngoanh2n/webdriverchecker
   github: ngoanh2n/webdriverchecker
-  quote: This is built as a dependency with Java to check Selenium WebDriver characteristics and environment.
+  quote: Built as a dependency with Java to check Selenium WebDriver characteristics and environment.
   description: |
     You are writing automation test scripts for multiple browsers such as:
     - Chrome, Safari.. on PC
@@ -28,7 +28,7 @@
   name: Image Comparator
   link: https://mvnrepository.com/artifact/com.github.ngoanh2n/image-comparator
   github: ngoanh2n/image-comparator
-  quote: This is built as a dependency with Java to compare 2 image files.
+  quote: Built as a dependency with Java to compare 2 image files.
   description: |
     Example:
     ```java
@@ -44,7 +44,7 @@
   name: CSV Comparator
   link: https://mvnrepository.com/artifact/com.github.ngoanh2n/csv-comparator
   github: ngoanh2n/csv-comparator
-  quote: This is built as a dependency with Java to compare 2 CSV files.
+  quote: Built as a dependency with Java to compare 2 CSV files.
   description: |
     Example: CSV is formatted columns `[id,email,firstname,lastname,age,note]`
     ```
