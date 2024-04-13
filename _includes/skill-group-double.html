@@ -1,0 +1,15 @@
+<div class="col-sm-4">
+    <p style="margin: 0 0 0.5em 0" class="skill-group">{{ skill.group }}</p>
+
+    <div style="margin-left: 2.5em">
+        {% for skilltag in skill.skilltags %}
+        <p style="margin: 0 0 0 0.5em">{{ skilltag.tag }}</p>
+
+        <ul style="list-style-type: none">
+        {% for skill in skilltag.skills %}
+            <li>{{ skill }}</li>
+        {% endfor %}
+        </ul>
+        {% endfor %}
+    </div>
+</div>
