@@ -7,7 +7,7 @@ This is using [modern-resume-theme](https://github.com/sproogen/modern-resume-th
 
 > **Prerequisites** <br>
 >> Install Ruby: [instructions](https://jekyllrb.com/docs/installation/) <br> 
->> `$ brew install ruby@2.7`
+>> `$ brew install ruby@3.3.0`
 >
 >> Install Bundler <br>
 >> `$ gem install bundler`
