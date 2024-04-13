@@ -1,79 +1,70 @@
-- layout: skill-columns
+- layout: skill-group-double
   group: General
-  subtitle: Subtitle
-  skill_tags: |
-    Programming Language
-      - ✅ Java
-      - ✅ JavaScript
-      - ✅ HTML/CSS
-    
-    Concept
-      - ✅ OOP Principles
-      - ✅ Design Patterns
-      - ✅ Data Structure and Algorithms
+  skilltags:
+    - tag: Language
+      skills:
+        - ☑ Java
+        - ☑ JavaScript
+        - ☑ HTML/CSS
+    - tag: Concept
+      skills:
+        - ☑ OOP Principles
+        - ☑ Design Patterns
+        - ☑ Algorithms
+        - ☑ Data Structures
+    - tag: CI/CD
+      skills:
+        - ☑ Jenkins
+        - ☑ CircleCI
+        - ☑ GitHub Actions
+    - tag: Other
+      skills:
+        - ☑ Docker
+        - ☑ AWS EC2
 
-    CI/CD
-      - ✅ Jenkins
-      - ✅ CircleCI
-      - ✅ GitHub Actions
-
-    Other
-      - ✅ Docker
-      - ✅ AWS EC2
-
-- layout: skill-columns
+- layout: skill-group-double
   group: Java
-  skill_tags: |
-    Build Tool
-      - ✅ Gradle
-      - ✅ Maven
-    
-    WebDriver
-      - ✅ Selenium
-      - ✅ Appium
-      - ✅ Selenide
-    
-    Test Framework
-      - ✅ JUnit5
-      - ✅ TestNG
+  skilltags:
+    - tag: Build Tool
+      skills:
+        - ☑ Gradle
+        - ☑ Maven
+    - tag: WebDriver
+      skills:
+        - ☑ Selenium
+        - ☑ Appium
+        - ☑ Selenide
+    - tag: Test Framework
+      skills:
+        - ☑ JUnit5
+        - ☑ TestNG
+    - tag: Report Framework
+      skills:
+        - ☑ Allure
+        - ☑ ReportPortal
+        - ☑ ExtentReport
 
-    Report Framework
-      - ✅ Allure
-      - ✅ ReportPortal
-      - ✅ ExtentReport
+- layout: skill-group-double
+  group: PHP
+  skilltags:
+    - tag: Build Tool
+      skills:
+        - ☑ Composer
+    - tag: WebDriver
+      skills:
+        - ☑ PHP WebDriver
+    - tag: Test Framework
+      skills:
+        - ☑ PHPUnit
 
-# - layout: skill-columns
-#   group: JavaScript
-#   skill_tags: |
-#     Framework
-#       - ✅ Playwright
-#       - ✅ Cypress
-#       - ✅ WebDriverIO
-    
-#     Test Framework
-#       - ✅ Mocha
-#       - ✅ Jest
-#       - ✅ Jasmine
-
-#     Report Framework
-#       - ✅ Allure
-#       - ✅ ReportPortal
-
-- layout: skill-columns
+- layout: skill-group-double
   group: Tool
-  skill_tags: |
-    Inspector
-      - ✅ App Inspector (Macaca)
-      - ✅ Appium Inspector
-      - ✅ UIAutomatorViewer
-    
-    Recorder
-      - ✅ Selenium IDE
-#       - ✅ Katalon Studio
-#       - ✅ Ranorex Studio
-#       - ✅ Cypress Studio
-
-#     RPA (Robotics Process Automation)
-#       - ✅ UiPath
-#       - ✅ Automation Anywhere
-#       - ✅ Blue Prism
+  skilltags:
+    - tag: Inspector
+      skills:
+        - ☑ App Inspector (Macaca)
+        - ☑ Appium Inspector
+        - ☑ UIAutomatorViewer
+    - tag: Recorder
+      skills:
+        - ☑ Selenium IDE

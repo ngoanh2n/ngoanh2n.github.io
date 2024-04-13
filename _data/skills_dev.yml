@@ -1,20 +1,20 @@
-- layout: skill-columns
+- layout: skill-group-single
   group: Frontend
-  skill_tags: |
-    - ✅ Webpack
-    - ✅ ReactJS
-    - ✅ ReactNative
+  skilltags:
+    - ☑ Webpack
+    - ☑ ReactJS
+    - ☑ ReactNative
 
-- layout: skill-columns
+- layout: skill-group-single
   group: Backend
-  skill_tags: |
-    - ✅ NodeJS
-    - ✅ ExpressJS
-    - ✅ Nodemon
+  skilltags:
+    - ☑ NodeJS
+    - ☑ ExpressJS
+    - ☑ Nodemon
 
-- layout: skill-columns
+- layout: skill-group-single
   group: Database
-  skill_tags: |
-    - ✅ MySQL
-    - ✅ MSSQL
-    - ✅ MongoDB
+  skilltags:
+    - ☑ MySQL
+    - ☑ MSSQL
+    - ☑ MongoDB
