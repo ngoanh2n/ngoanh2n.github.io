@@ -5,6 +5,7 @@
       skills:
         - ☑ Java
         - ☑ JavaScript
+        - ☑ PHP
         - ☑ HTML/CSS
     - tag: Concept
       skills:
@@ -17,6 +18,7 @@
         - ☑ Jenkins
         - ☑ CircleCI
         - ☑ GitHub Actions
+        - ☑ SauceLabs / BrowserStack
     - tag: Other
       skills:
         - ☑ Docker
